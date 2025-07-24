@@ -133,3 +133,4 @@ if uploaded_file and city:
         st.warning("No recommended crops found for this combination.")
 else:
     st.info("📌 Please upload a soil image and enter city/state.")
+
